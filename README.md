@@ -14,6 +14,7 @@ It includes electronics, 3D printed parts, servo motors, sound, a laser, and a t
 - `photos/`: High quality photos of the project
 - `sounds/`: Audio effects used in the robot
 - `libraries/`: Arduino libraries used in the code
+- `components/`: Full Component List
 
 ## 🕹️ Control System
 
