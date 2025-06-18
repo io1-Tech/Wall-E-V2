@@ -53,6 +53,9 @@ Here’s a list of the main tools and platforms I used throughout the WALL·E pr
 ## 📸 Preview
 
 ![Wall-E Robot](photos/DSC05771.JPG)
+![Wall-E Robot](photos/DSC05868.JPG)
+![Wall-E Robot](photos/DSC06065.JPG)
+![Wall-E Robot](photos/DSC06053.JPG)
 
 ## 📂 Version History
 
