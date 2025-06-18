@@ -20,7 +20,7 @@ It includes electronics, 3D printed parts, servo motors, sound, a laser, and a t
 This robot can be controlled using:
 - Xbox Controller (Bluetooth)
 - Remote XY App (previous versions)
-![Imagen](photos/RemoteXY gui.png)
+- ![Imagen](photos/RemoteXY gui.png)
 
 ## ⚙️ Electronics
 
