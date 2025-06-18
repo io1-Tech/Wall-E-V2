@@ -1,4 +1,4 @@
-# Wall-E Robotic Project
+# Wall · E V2
 
 This is my personal project, Wall-E, a robot I designed and built from scratch.
 
