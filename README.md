@@ -27,7 +27,7 @@ This robot can be controlled using:
 
 You can find a complete, organized list of all electronic, mechanical, and auxiliary components used in this project in the spreadsheet below:
 
-📄 [components_list.xlsx](./documentation/components_list.xlsx)
+📄 [Wall-E-V2_components_list.xlsx](components/Wall-E-V2_components_list.xlsx)
 
 This table includes:
 - Quantity and part numbers  
