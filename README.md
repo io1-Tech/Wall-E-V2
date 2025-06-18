@@ -36,6 +36,9 @@ This table includes:
 - Reason for selection  
 - Reference images  
 
+Also i made a schematic with all the conections
+![Imagen](schematics/SCH_Wall_e_V2_schematic_1_black.jpg)
+
 ## 🛠️ Tools and Platforms Used
 
 Here’s a list of the main tools and platforms I used throughout the WALL·E project:
