@@ -23,14 +23,18 @@ This robot can be controlled using:
 - Remote XY App (previous versions)
 ![Imagen](photos/RemoteXYgui.png)
 
-## ⚙️ Electronics
+## 🔩 Full Component List
 
-Main controller: ESP32  
-Motors: L-shaped Yellow Gearmotors  
-Arms: MG996R Servos  
-Head: SG90 Servo  
-Power: 18650 Battery Pack (7.4V)  
-And much more...
+You can find a complete, organized list of all electronic, mechanical, and auxiliary components used in this project in the spreadsheet below:
+
+📄 [components_list.xlsx](./documentation/components_list.xlsx)
+
+This table includes:
+- Quantity and part numbers  
+- Technical specifications  
+- Purpose in project  
+- Reason for selection  
+- Reference images  
 
 ## 📸 Preview
 
