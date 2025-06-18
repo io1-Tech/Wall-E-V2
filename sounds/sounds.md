@@ -1,0 +1,1 @@
+Place these MP3 files onto a microSD card. Insert the card into the DFPlayer module to enable audio playback in your project.
