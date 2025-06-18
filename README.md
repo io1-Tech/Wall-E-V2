@@ -49,6 +49,8 @@ Here’s a list of the main tools and platforms I used throughout the WALL·E pr
 - **EasyEDA** – Created professional circuit schematics and organized the wiring logic.
 - **Arduino IDE** – Developed and uploaded firmware to the ESP32 microcontroller.
 - **GitHub** – Used for version control, documentation, and collaboration.
+- **OrcaSlicer** – Used slicing all my 3d printabled parts.
+
 
 ## 📸 Preview
 
