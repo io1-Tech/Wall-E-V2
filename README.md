@@ -58,7 +58,7 @@ Here’s a list of the main tools and platforms I used throughout the WALL·E pr
 
 - v1.0: Basic control and movement
 - v2.8: Bluetooth control with Remote XY
-- v3.4: Xbox Controller and sound system added
+- v3.4: Xbox Controller and sound system added (FINAL VERSION)
 
 ## 🧠 Author
 
