@@ -67,5 +67,5 @@ Here’s a list of the main tools and platforms I used throughout the WALL·E pr
 
 ## 🧠 Author
 
-Created by: **Nicolás (io1)**  
+Created by: io1  
 
